@@ -16,6 +16,8 @@
 - French: Donnez moi (montant 1-3) cours (sujet)
 - Portuguese: Dê-me (quantidade de 1-3) cursos de (tópico)
 
+Approximate waiting time for the bot to respond is between 5-8 mins
+
 Important notice:
 If you want the bot to always give you new courses, it is important that you follow it.
 Due to storage limitation, @GratisBot only remembers data from followers!
