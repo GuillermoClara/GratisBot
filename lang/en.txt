@@ -1,0 +1,7 @@
+no_courses_found: I couldnt find any course related to that topic!
+follow_me: Follow me if you want me to remember your previous courses!
+followed: Now that you are following me, I will remember your previous courses!
+syntax_error: I didnt get that! Type "Give me (amount 1-3) courses about (topic)"
+courses_found: Here you go, these are the courses I found!
+top_courses_intro: Here you go, this is a new list of courses about the most demanded topics!
+discount_intro: Here are some new 100% off courses!

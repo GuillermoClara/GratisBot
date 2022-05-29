@@ -1,0 +1,5 @@
+no_courses_found: Ich konnte keine kurs uber diesem Thema finden!
+follow_me: Folge mir um sich an deine vorherigen Kurse zu erinnern
+followed: Im folgeden werde ich deiene vorherigen Kurse erinnern!
+syntax_error: Ich habe nicht verstanden! Schreib "Gibt mir (Menge 1-3) Kurse uber (Thema)"
+courses_found: Ich habe diese Kurse gefunden!

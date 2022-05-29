@@ -1,0 +1,5 @@
+last_twitt_id_check: 1529139383391207425
+delete_delay: 96
+display_top: 5
+default_topics: programming,marketing,python,photoshop,graphic design,java,web development,languages,machine learning,javascript
+max_discounts_per_tweet: 5

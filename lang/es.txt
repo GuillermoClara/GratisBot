@@ -1,0 +1,7 @@
+no_courses_found: No he encontrado ningun curso gratis con ese tema relacionado en Udemy!
+follow_me: Si quieres que recuerde que cursos pediste, sigueme!
+followed: Ahora que me sigues guardare los cursos que has pedido para darte siempre cursos nuevos!
+syntax_error: No te entendi muy bien 🤕! Escribe "Dame (cantidad del 1-3) cursos de (tema)"
+courses_found: Aqui tienes los cursos del tema que me pediste!
+top_courses_intro: Aqui va una nueva lista de cursos sobre los temas mas demandados!
+discount_intro: He encontrado nuevos cursos con 100% de descuento, echales un vistazo!

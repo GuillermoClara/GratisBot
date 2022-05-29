@@ -1,0 +1,5 @@
+no_courses_found: Não encontrei nenhum curso gratuito com esse tópico relacionado na Udemy!
+follow_me: Se você quiser que eu lembre quais cursos você solicitou, siga-me!
+followed: Agora que você me segue vou lembrar dos cursos que você pediu para sempre te dar novos cursos!
+syntax_error: Não te entendi muito bem 🤕! Escreve "Dê-me (quantidade de 1-3) cursos de (tópico)"
+courses_found: Aqui você tem os cursos do assunto que você me pediu!

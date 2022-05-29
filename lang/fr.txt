@@ -1,0 +1,5 @@
+no_courses_found: Je n'ai trouvé aucun cours sur ce sujet!
+follow_me: Si vous voulez que je me souvienne des cours que vous avez demandés, suivez-moi
+followed: Maintenant que vous me suivez, je vais sauvegarder les cours que vous avez demandés pour toujours vous donner de nouveaux cours!
+syntax_error: Je ne t'ai pas très bien compris 🤕! Tapez "Donnez moi (montant 1-3) cours (sujet)"
+courses_found: Ici vous avez les cours du sujet que vous m'avez demandé!
