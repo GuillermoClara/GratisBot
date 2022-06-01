@@ -116,7 +116,8 @@ def get_course_for_top(topic, lang='es'):
 def search_udemy_course(topic, lang='es', size=10, page=1, tries=0, order='relevance'):
 
     # Udemy API request
-    course_list = Client.get_courseslist(language=lang, search=topic, page_size=size, page=page, ordering=order)
+    course_list = Client.get_courseslist(language=lang, search=topic, page_size=size, page=page, price="price-free",
+                                         ordering=order)
     parsed_courses = json.loads(course_list)
     course_list = parsed_courses['results']
     amount = len(course_list)
